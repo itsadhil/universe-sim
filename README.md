@@ -39,7 +39,7 @@ An immersive, single-player VR simulation game built in Unity, designed to repli
 - **CPU:** i5 / Ryzen 5+
 - **GPU:** GTX 1060 / RX 580+
 - **RAM:** 8 GB+
-- **Input:** 6DOF VR Controllers
+- **Input:** 6DOF VR Controller
 
 ---
 
