@@ -8,7 +8,7 @@ An immersive, single-player VR simulation game built in Unity, designed to repli
 
 - 🌍 Grab, scale, and orbit planets in VR or PC mode.
 - 🌀 Control time: slow down, pause, fast-forward, or rewind.
-- 💥 Trigger supernovas, black holes, and cosmic events.
+- 💥 Trigger supernovas, black holes, and other cosmic events.
 - 🧠 Learn real planetary data via floating info panels.
 - 🔁 Procedural orbital physics with scalable systems.
 - 🎓 Educational mode and real-time data (Firebase optional).
