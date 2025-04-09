@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scens/PCflashScreenUI.unity
+    guid: 347183e2331a4d74b8f0475a47e2a1ca
+  - enabled: 1
+    path: Assets/scens/PChomeScreenUI.unity
+    guid: f005408eec836ae4aaa20e3160f74270
+  - enabled: 1
+    path: Assets/scens/solarSystem.unity
+    guid: eab49215e1f52e04193c319bd5939cdf
+  - enabled: 1
+    path: Assets/scens/PCthreeBodyProblem.unity
+    guid: b0c01bc98d5ab4648902b50989403eb9
+  - enabled: 1
+    path: Assets/scens/PCriochee.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/scens/planetssurface.unity
+    guid: 3f6c23a286d1c944cb8b549565e0be34
+  - enabled: 1
+    path: Assets/scens/PCmusium.unity
+    guid: 576eae571bd5572438ce38aa0ecd4cc6
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7c50c37e89e6a504a9fd487980f76767, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9c3ef316460e5c94b93f2bb675850aa2, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 28c4c354311edb149a18fa6cffdab379, type: 2}
+  m_UseUCBPForAssetBundles: 0
