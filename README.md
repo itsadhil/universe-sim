@@ -1,6 +1,6 @@
 # 🌌 Universe Simulator VR
 
-An immersive, single-player VR simulation game built in Unity, designed to replicate and interact with realistic cosmic systems in a virtual sandbox. Explore the solar system, control time, trigger cosmic events, and manipulate celestial bodies — all from your headset or PC.
+An immersive, single-player VR simulation game built in Unity, designed to replicate and interact with realistic cosmic systems in a virtual sandbox. Explore the solar system, control time, trigger cosmic events, and manipulate celestial bodies — all from your headset or PC
 
 ---
 
